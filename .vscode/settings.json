@@ -1,4 +1,7 @@
 {
     "editor.tabSize": 2,
     "git.ignoreLimitWarning": true,
+    "git.ignoredRepositories": [
+        "/node_modules"
+    ]
 }
